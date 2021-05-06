@@ -1,0 +1,4 @@
+[submodule "MobilizeSpa/Mantenimiento"]
+	path = MobilizeSpa/Mantenimiento
+	url = git@github.com:MobilizeSpa/Mantenimiento.git
+	branch = master
